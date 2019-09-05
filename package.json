@@ -1,0 +1,23 @@
+{
+  "name": "todopurejavascript",
+  "version": "1.0.0",
+  "description": "pure javascript TODO List",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacovinus/TodoPureJavascript.git"
+  },
+  "author": "Joel Guerra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacovinus/TodoPureJavascript/issues"
+  },
+  "homepage": "https://github.com/jacovinus/TodoPureJavascript#readme",
+  "dependencies": {
+    "browserfy": "^1.0.0",
+    "lodash": "^4.17.15"
+  }
+}

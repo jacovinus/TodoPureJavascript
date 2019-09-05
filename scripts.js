@@ -74,7 +74,4 @@ let done = () => {
     let ic = document.querySelectorAll("i");
     return ic;
 }
-if(done()){
-    done.addEventListener("click",removeItem);
-    console.log(i);
-}
+
